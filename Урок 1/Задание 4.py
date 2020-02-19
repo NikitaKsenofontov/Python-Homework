@@ -12,4 +12,3 @@ while user_number > 0:
     user_number //= 10
 
 print(f'Максимальное число: {maximum}')
-
